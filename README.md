@@ -1,124 +1,291 @@
-# 🚀 Dharmik Soni — Full-Stack Developer Portfolio
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:1a0533,60:2d1b69,100:0a0a0f&height=220&section=header&text=DHARMIK%20SONI&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20Engineer%20%E2%80%94%20MERN%20%7C%20AI%20%7C%20Cloud&descAlignY=67&descColor=c084fc&descSize=17&stroke=7c3aed&strokeWidth=2" width="100%"/>
+</div>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-22c55e?style=for-the-badge&logo=vercel&logoColor=white)](https://dharmiksoni15.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-dharmiksoni15-181717?style=for-the-badge&logo=github)](https://github.com/dharmiksoni15)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharmik-soni-26a557280)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharmikwork15@gmail.com)
+<div align="center">
 
-A modern, animated, single-page developer portfolio built with **pure HTML, CSS, and JavaScript** — no frameworks, no build tools, fully responsive, and deployed on GitHub Pages.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1200&color=C084FC&center=true&vCenter=true&width=620&lines=const+role+%3D+%22Full-Stack+MERN+Developer%22;const+award+%3D+%22%F0%9F%8F%86+JG+University+Hackathon+Winner+2025%22;const+status+%3D+%22Open+to+SDE+Internship+%F0%9F%9A%80%22;const+apps+%3D+%223+production-deployed+projects%22;const+superpower+%3D+%22AI+%2B+MERN+%2B+Cloud%22)](https://git.io/typing-svg)
 
-🔗 **Live Site:** [dharmiksoni15.github.io](https://dharmiksoni15.github.io)
-
----
-
-## 📸 Overview
-
-This portfolio showcases my work as a **Full-Stack MERN Developer**, including production-deployed projects, technical skills, achievements (🏆 1st Rank — JG University Hackathon 2025), and contact details — all wrapped in a sleek dark-themed, glassmorphism UI with smooth scroll animations.
+</div>
 
 ---
 
-## ✨ Features
+## 👾 `$ cat about_me.json`
 
-- 🎨 **Dark, glassmorphism-inspired UI** with animated gradient glows and grid backgrounds
-- 🧭 **Sticky floating navigation bar** with active-section highlighting on scroll
-- ⌨️ **Animated typing effect** showcasing role, achievements, and status
-- 📊 **Scroll-reveal animations** and animated counters for stats
-- 🗂️ **Project showcase** with live demo links, GitHub links, and tech stack tags
-- 🏆 **Achievement highlight section** for the JG University Hackathon win
-- 🕒 **Developer journey timeline** from first lines of code to current goals
-- 📱 **Fully responsive** — optimized for mobile, tablet, and desktop
-- ♿ **Accessibility-friendly** — respects `prefers-reduced-motion`
-- ⚡ **Zero dependencies** beyond Google Fonts — pure vanilla JS
+<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=dharmiksoni15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=c084fc&icon_color=7c3aed&text_color=e2e8f0&bg_color=0d1117&ring_color=7c3aed" />
 
----
-
-## 🛠️ Built With
-
-| Category | Technology |
-|---|---|
-| Markup | HTML5 |
-| Styling | CSS3 (Custom Properties, Grid, Flexbox, Animations) |
-| Interactivity | Vanilla JavaScript (Intersection Observer, DOM events) |
-| Fonts | Google Fonts — Space Grotesk, Syne, JetBrains Mono |
-| Hosting | GitHub Pages |
-
----
-
-## 📂 Sections
-
-1. **Hero** — Introduction, role, availability status, and animated code-style profile card
-2. **About** — Background, hackathon achievement, and quick stats
-3. **Skills** — Frontend, Backend, Database, Auth & Security, AI & Files, Deployment & Tools
-4. **Developer Identity** — Terminal-style summary of profile
-5. **Projects** — Featured and supporting projects with live links and stacks
-6. **Journey** — Timeline of growth from 2021 to present
-7. **Why Hire Me** — Key strengths and value proposition
-8. **Contact** — Email, GitHub, and LinkedIn
-
----
-
-## 💼 Featured Projects
-
-### 🤖 [CareerBoost AI](https://github.com/dharmiksoni15/careerboost-ai) — AI-Powered Resume Analyzer
-`React.js` `Node.js` `Express.js` `MongoDB Atlas` `Gemini API` `JWT` `Multer` `pdf-parse`
-
-An AI-powered full-stack platform that evaluates resume compatibility against job descriptions using **Google Gemini API** with structured JSON prompting. Includes secure PDF upload pipeline, JWT authentication with bcrypt, and cloud deployment (Vercel + Render + MongoDB Atlas).
-
-### ✅ [TaskFlow](https://github.com/dharmiksoni15/Task-Manager) — MERN Task Manager
-`React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `Axios`
-
-Full-stack task management app with RESTful API, complete CRUD, live search, filtering, inline editing, toast notifications, and an analytics summary. Built with MVC architecture on the backend.
-
-### 🛡️ [MERN Admin Dashboard](https://github.com/dharmiksoni15/Mern_stack_Project)
-`React.js (Vite)` `Context API` `Node.js` `JWT` `bcrypt` `Zod` `Tailwind CSS`
-
-Production-ready application with JWT authentication, role-based admin authorization, full CRUD for user/contact management, and Zod-based server-side validation.
-
----
-
-## 🚀 Getting Started
-
-Since this is a static, single-file portfolio, no build process is required.
-
-```bash
-# Clone the repository
-git clone https://github.com/dharmiksoni15/<repo-name>.git
-
-# Navigate into the project
-cd <repo-name>
-
-# Open index.html in your browser
+```json
+{
+  "name"        : "Dharmik Soni",
+  "role"        : "Full-Stack Developer",
+  "degree"      : "MCA @ JG University (2025–2027)",
+  "city"        : "Ahmedabad, India 🇮🇳",
+  "core_stack"  : ["MERN", "AI Integration", "Cloud Deployment"],
+  "shipped"     : "3 production-deployed apps",
+  "achievement" : "🏆 1st Rank — JG University Hackathon 2025",
+  "seeking"     : "Software Development Internship",
+  "available"   : true
+}
 ```
 
-To deploy your own copy on **GitHub Pages**:
-1. Push the code to a GitHub repository
-2. Go to **Settings → Pages**
-3. Select the `main` branch and `/ (root)` folder as the source
-4. Your site will be live at `https://<your-username>.github.io/<repo-name>`
+<br clear="right"/>
+
+---
+
+## 🗺️ My Developer Journey
+
+```
+2022 ──────────────────────────────────────────────────────────── 2025+
+  │                                                                   │
+  ▼                                                                   ▼
+[BCA Start]──▶[HTML/CSS/JS]──▶[React.js]──▶[Node + Express]──▶[MERN Stack]
+                                                  │                   │
+                                            [MongoDB Atlas]    [AI Integration]
+                                                  │                   │
+                                           [JWT + bcrypt]    [Gemini API 🤖]
+                                                  │                   │
+                                           [Vercel + Render]──▶[3 Live Apps 🚀]
+                                                  │
+                                     [🏆 Hackathon Winner — JG University 2025]
+
+                            ──── NOW: MCA Student + Seeking SDE Internship ────
+```
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+| Domain | Technologies |
+|---|---|
+| **Frontend** | ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB) ![JS](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E) ![TS](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6) ![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8) ![Angular](https://img.shields.io/badge/Angular-0d1117?style=flat-square&logo=angular&logoColor=DD0031) |
+| **Backend** | ![Node](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933) ![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=white) ![REST](https://img.shields.io/badge/REST_API-0d1117?style=flat-square&logo=postman&logoColor=FF6C37) ![MVC](https://img.shields.io/badge/MVC_Pattern-0d1117?style=flat-square&logo=databricks&logoColor=white) |
+| **Auth & Security** | ![JWT](https://img.shields.io/badge/JWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=white) ![bcrypt](https://img.shields.io/badge/bcrypt-0d1117?style=flat-square&logo=letsencrypt&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-0d1117?style=flat-square&logo=zod&logoColor=3E67B1) ![RBAC](https://img.shields.io/badge/RBAC-0d1117?style=flat-square&logo=shield&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB_Atlas-0d1117?style=flat-square&logo=mongodb&logoColor=47A248) ![Mongoose](https://img.shields.io/badge/Mongoose-0d1117?style=flat-square&logo=mongoose&logoColor=800000) ![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=003B57) |
+| **AI & File Processing** | ![Gemini](https://img.shields.io/badge/Gemini_API-0d1117?style=flat-square&logo=google&logoColor=4285F4) ![Multer](https://img.shields.io/badge/Multer-0d1117?style=flat-square&logo=npm&logoColor=CB3837) ![pdf-parse](https://img.shields.io/badge/pdf--parse-0d1117?style=flat-square&logo=adobeacrobatreader&logoColor=EC1C24) |
+| **Deployment & Tools** | ![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-0d1117?style=flat-square&logo=render&logoColor=46E3B7) ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032) ![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=FF6C37) |
+
+</div>
+
+---
+
+## 🚀 Production Projects
+
+> All three are **live on the internet** — independently designed, built, and deployed end-to-end.
+
+<br/>
+
+<details open>
+<summary><b>🧠 CareerBoost AI — AI-Powered Resume Analyzer</b> &nbsp;<code>Most Complex</code></summary>
+<br/>
+
+```
+[ User uploads PDF ]
+        │
+        ▼
+[ Multer receives file ] ──▶ [ pdf-parse extracts text ]
+                                        │
+                                        ▼
+                          [ Gemini API + Structured JSON Prompting ]
+                                        │
+                          ┌─────────────┴─────────────┐
+                          ▼                           ▼
+                  [ Match Score % ]           [ Skill Gaps +
+                  [ Strengths ]                 Suggestions ]
+                          │
+                          ▼
+                [ Saved to MongoDB Atlas ]
+                [ Displayed on Dashboard ]
+```
+
+An AI-powered full-stack platform that evaluates resume compatibility against job descriptions using the **Google Gemini API** with structured JSON prompting. Includes a secure PDF upload pipeline, JWT authentication with bcrypt, and cloud deployment across Vercel, Render, and MongoDB Atlas.
+
+**Stack:** `React.js` `Node.js` `Express.js` `MongoDB Atlas` `Google Gemini API` `Multer` `pdf-parse` `JWT` `bcrypt` `Tailwind CSS`
+
+[![Repo](https://img.shields.io/badge/GitHub_Repo-c084fc?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dharmiksoni15/careerboost-ai)
+![Live](https://img.shields.io/badge/🌐_Deployed_on_Vercel-0d1117?style=for-the-badge)
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>✅ TaskFlow — MERN Task Manager</b></summary>
+<br/>
+
+```
+[ React UI ]
+    │  ↕ Axios
+[ Express API (MVC) ] ──▶ [ Mongoose ] ──▶ [ MongoDB Atlas ]
+    │
+    ├──▶ GET    /tasks       → fetch all
+    ├──▶ POST   /tasks       → create
+    ├──▶ PUT    /tasks/:id   → inline edit
+    └──▶ DELETE /tasks/:id   → delete
+         │
+         ▼
+  [ Live Search + Filter + Analytics Summary ]
+```
+
+A full-stack task management application with RESTful API integration and complete CRUD functionality. Features live search, task filtering, inline editing, toast notifications, and an analytics summary using React Hooks and Axios.
+
+**Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Mongoose` `Tailwind CSS` `Axios`
+
+[![Repo](https://img.shields.io/badge/GitHub_Repo-c084fc?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dharmiksoni15/Task-Manager)
+![Live](https://img.shields.io/badge/🌐_Deployed_on_Vercel-0d1117?style=for-the-badge)
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>🛡️ MERN Admin Dashboard — Role-Based Auth System</b></summary>
+<br/>
+
+```
+[ Register / Login ]
+        │
+    JWT issued
+        │
+   ┌────┴─────┐
+   ▼          ▼
+[ Admin ]   [ User ]
+   │           │
+[Full CRUD] [Read Only]
+[User Mgmt] [Own Profile]
+[Contact   ]
+[Dashboard ]
+   │
+[ Zod validates all inputs ]
+[ bcrypt hashes all passwords ]
+[ MongoDB Atlas stores everything ]
+```
+
+A production-ready application with JWT authentication, role-based admin authorization, and full CRUD operations for user and contact management — built with Context API for state management and Zod for server-side validation.
+
+**Stack:** `React.js (Vite)` `Context API` `Node.js` `JWT` `bcrypt` `Zod` `Tailwind CSS` `MongoDB Atlas`
+
+[![Repo](https://img.shields.io/badge/GitHub_Repo-c084fc?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dharmiksoni15/Mern_stack_Project)
+![Live](https://img.shields.io/badge/🌐_Deployed_on_Vercel-0d1117?style=for-the-badge)
+
+</details>
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 **1st Rank — JG University Hackathon 2025**, Ahmedabad, India
-- 🚀 **3 production-deployed full-stack applications**, built and shipped independently
-- 🤖 Integrated **Google Gemini API** into a live, end-to-end product
+- 🥇 **1st Rank — JG University Hackathon 2025**, Ahmedabad — recognized for building a production-ready solution under time pressure.
+- 🚀 Independently designed, built, and deployed **3 full-stack applications** to production.
+- 🤖 Integrated **Google Gemini API** into a live, end-to-end product with structured JSON prompting.
 
 ---
 
-## 👤 About Me
+## 💡 Core Strengths
 
-I'm Dharmik Soni, a **Full-Stack Developer** and MCA student at JG University, Ahmedabad (2025–2027), specializing in the **MERN stack with AI integration**. I write secure, modular code using JWT, RBAC, and Zod validation, and I'm actively seeking a **Software Development Internship** to contribute to real-world projects.
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│                                                                        │
+│  ⚡ Full-Stack Ownership   →  React UI → Express API → MongoDB,        │
+│                               built and deployed end-to-end            │
+│                                                                        │
+│  🤖 AI Integration        →  Gemini API in production with             │
+│                               structured JSON prompting                │
+│                                                                        │
+│  🔐 Security-First Code   →  JWT, bcrypt, RBAC, Zod validation,         │
+│                               protected routes                          │
+│                                                                        │
+│  ☁️ Deployment Lifecycle   →  Vercel + Render + MongoDB Atlas,          │
+│                               from build to ship to iterate            │
+│                                                                        │
+│  🏆 Proven Execution       →  1st Rank, JG University Hackathon 2025   │
+│                                                                        │
+└──────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 📬 Contact
+## 📊 GitHub Stats
 
-- 📧 **Email:** [dharmikwork15@gmail.com](mailto:dharmikwork15@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/dharmik-soni-26a557280](https://www.linkedin.com/in/dharmik-soni-26a557280)
-- 🐙 **GitHub:** [github.com/dharmiksoni15](https://github.com/dharmiksoni15)
-- 🌐 **Portfolio:** [dharmiksoni15.github.io](https://dharmiksoni15.github.io)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmiksoni15&layout=compact&hide_border=true&title_color=c084fc&text_color=e2e8f0&bg_color=0d1117&langs_count=7" height="155"/>
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=dharmiksoni15&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=7C3AED&currStreakLabel=C084FC&sideLabels=e2e8f0&dates=64748b)](https://git.io/streak-stats)
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dharmiksoni15&bg_color=0d1117&color=c084fc&line=7c3aed&point=ffffff&area=true&area_color=2d1b69&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
-<p align="center">⭐ If you like this portfolio, consider giving it a star!</p>
+<details>
+<summary>🐍 Optional: Contribution Snake Animation (setup guide)</summary>
+<br/>
+
+To display an animated snake that "eats" your contribution graph, create `.github/workflows/snake.yml` in your profile repository:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: dharmiksoni15
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Once the workflow runs successfully, add this to your README:
+
+```markdown
+![snake animation](https://github.com/dharmiksoni15/dharmiksoni15/blob/output/github-contribution-grid-snake-dark.svg)
+```
+
+</details>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+*MCA student · Full-Stack Developer · Based in Ahmedabad, India*
+*Looking for a place to contribute, grow, and ship great software.*
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-22c55e?style=for-the-badge&logo=vercel&logoColor=white)](https://dharmiksoni15.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharmik-soni-26a557280)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharmikwork15@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dharmiksoni15)
+
+<br/>
+
+![Visitors](https://komarev.com/ghpvc/?username=dharmiksoni15&color=7c3aed&style=flat-square&label=profile+views)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:1a0533,60:2d1b69,100:0a0a0f&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+</div>
