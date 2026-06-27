@@ -22,9 +22,6 @@
   <a href="https://dharmiksoni-portfolio.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Live-0d0d0d?style=for-the-badge&logo=netlify&logoColor=67e8f9&labelColor=0d0d0d&color=1a0533" />
   </a>
-  <a href="tel:+917359587675">
-    <img src="https://img.shields.io/badge/Phone-+91%207359587675-0d0d0d?style=for-the-badge&logo=whatsapp&logoColor=a855f7&labelColor=0d0d0d&color=1a0533" />
-  </a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=dharmiksoni15&label=Profile+Views&color=a855f7&style=for-the-badge&labelColor=0d0d0d" />
@@ -93,9 +90,11 @@ const dharmik = {
 ### 🗄️ Databases
 
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)
 
 ![Mongoose](https://img.shields.io/badge/Mongoose-0d0d0d?style=for-the-badge&logo=mongoose&logoColor=red)
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=00ed64)
+![MySQL](https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=67e8f9)
 
 ### 🔐 Auth & Security
 
@@ -115,6 +114,7 @@ const dharmik = {
 
 [![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com)
 [![Render](https://skillicons.dev/icons?i=render)](https://render.com)
+[![Netlify](https://skillicons.dev/icons?i=netlify)](https://netlify.com)
 
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=00ed64)
 
@@ -521,12 +521,6 @@ Engineered TaskFlow to handle 100+ tasks with real-time UI updates under 200ms �
 
 <a href="https://dharmiksoni-portfolio.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-dharmiksoni--portfolio.netlify.app-0d0d0d?style=for-the-badge&logo=netlify&logoColor=67e8f9&labelColor=0d0d0d&color=1a0533" />
-</a>
-
-<br/><br/>
-
-<a href="tel:+917359587675">
-  <img src="https://img.shields.io/badge/Phone-+91%207359587675-0d0d0d?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=0d0d0d&color=1a0533" />
 </a>
 
 </div>
