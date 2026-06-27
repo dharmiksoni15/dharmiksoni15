@@ -1,434 +1,571 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:1a0533,60:2d1b69,100:0a0a0f&height=220&section=header&text=DHARMIK%20SONI&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20Engineer%20%E2%80%94%20MERN%20%7C%20AI%20%7C%20Cloud&descAlignY=67&descColor=c084fc&descSize=17&stroke=7c3aed&strokeWidth=2" width="100%"/>
-</div>
 
-<div align="center">
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     HERO BANNER                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1200&color=C084FC&center=true&vCenter=true&width=620&lines=const+role+%3D+%22Full-Stack+MERN+Developer%22;const+status+%3D+%22Actively+Seeking+SDE+Internship+%F0%9F%9A%80%22;const+shipped+%3D+%223+production-deployed+projects%22;const+achievement+%3D+%22%F0%9F%8F%86+Hackathon+Winner+2025%22)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0a192f&height=220&section=header&text=Dharmik%20Soni&fontSize=72&fontColor=a855f7&fontAlignY=38&desc=AI%20Full%20Stack%20Engineer%20%E2%80%A2%20MERN%20Developer%20%E2%80%A2%20Generative%20AI%20Builder&descSize=18&descAlignY=62&descColor=67e8f9&animation=fadeIn" width="100%"/>
 
-</div>
+<br/>
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=900&color=A855F7&center=true&vCenter=true&width=800&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Dharmik+Soni;AI+Full+Stack+Developer;MERN+Stack+Engineer;Generative+AI+Builder;JG+University+Hackathon+Winner+%F0%9F%8F%86;Building+Intelligent+Web+Applications)](https://git.io/typing-svg)
 
-## 🏆 HACKATHON ACHIEVEMENT
+<br/>
 
-<div align="center">
+<p>
+  <a href="mailto:dharmikwork15@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-dharmikwork15-0d0d0d?style=for-the-badge&logo=gmail&logoColor=a855f7&labelColor=0d0d0d&color=1a0533" />
+  </a>
+  <a href="https://github.com/dharmiksoni15" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-dharmiksoni15-0d0d0d?style=for-the-badge&logo=github&logoColor=a855f7&labelColor=0d0d0d&color=1a0533" />
+  </a>
+  <a href="https://dharmiksoni-portfolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live-0d0d0d?style=for-the-badge&logo=netlify&logoColor=67e8f9&labelColor=0d0d0d&color=1a0533" />
+  </a>
+  <a href="tel:+917359587675">
+    <img src="https://img.shields.io/badge/Phone-+91%207359587675-0d0d0d?style=for-the-badge&logo=whatsapp&logoColor=a855f7&labelColor=0d0d0d&color=1a0533" />
+  </a>
+</p>
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║        🏆  JG UNIVERSITY HACKATHON 2025  —  WINNER  🏆       ║
-║                                                              ║
-║  Competed against 50+ teams | Innovative MERN Solution      ║
-║  First Place | Demonstrated Full-Stack Excellence           ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-**What I Built:** A production-ready full-stack application that solved a real-world problem under time constraints.
-
-**Why This Matters:**
-- ✅ Proven ability to execute under pressure
-- ✅ Experience building complete products end-to-end
-- ✅ Validated technical depth across MERN stack
-- ✅ Among the top talents at JG University
+<img src="https://komarev.com/ghpvc/?username=dharmiksoni15&label=Profile+Views&color=a855f7&style=for-the-badge&labelColor=0d0d0d" />
 
 </div>
 
 ---
 
-## 👾 `$ cat about_me.json`
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      ABOUT ME                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=dharmiksoni15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=c084fc&icon_color=7c3aed&text_color=e2e8f0&bg_color=0d1117&ring_color=7c3aed" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:1a0533&height=3&section=header" width="100%"/>
+</div>
 
-```json
-{
-  "name"         : "Dharmik Soni",
-  "role"         : "Full-Stack Developer",
-  "degree"       : "MCA @ JG University '27",
-  "city"         : "Ahmedabad 🇮🇳",
-  "core"         : ["MERN", "AI", "Cloud"],
-  "shipped"      : "3 production apps",
-  "achievement"  : "🏆 Winner - JG University Hackathon 2025",
-  "seeking"      : "Software Development Internship",
-  "available"    : true
-}
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="35" align="center"/> &nbsp;About Me
+
+```typescript
+const dharmik = {
+  name        : "Dharmik Soni",
+  role        : "AI Full Stack Engineer",
+  location    : "Ahmedabad, India 🇮🇳",
+  education   : ["MCA — JG University (2025–2027)", "BCA — President Institute, CGPA 7.89 (2022–2025)"],
+  stack       : ["React.js", "Node.js", "Express.js", "MongoDB", "Gemini API"],
+  currentFocus: ["Generative AI Integration", "Full Stack MERN Applications", "Production-Grade AI Products"],
+  achievement : "🏆 JG University 2025 Hackathon Winner",
+  funFact     : "One of the few MCA freshers with hands-on Gen AI deployment in production",
+};
 ```
 
-<br clear="right"/>
+> 🎯 **JG University Hackathon Winner** and MCA student who has shipped **3 full-stack MERN applications to production**.
+> Proven ability to integrate AI APIs, design secure auth systems, and architect scalable backends.
+> Ready to bring end-to-end ownership to a real-world engineering role.
 
 ---
 
-## 🗺️ My Developer Journey
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    TECH ARSENAL                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-```
-2022 ──────────────────────────────────────────────────────────── 2025+
-  │                                                                   │
-  ▼                                                                   ▼
-[BCA Start]──▶[HTML/CSS/JS]──▶[React.js]──▶[Node+Express]──▶[MERN Stack]
-                                                  │                   │
-                                            [MongoDB Atlas]    [AI Integration]
-                                                  │                   │
-                                           [JWT + bcrypt]    [Gemini API 🤖]
-                                                  │                   │
-                                           [Vercel+Render]──▶[3 Live Apps 🚀]
-                                                              [Hackathon 🏆]
-                                           ──── NOW: MCA + SDE Internship ────
-```
-
----
-
-## ⚡ Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="35" align="center"/> &nbsp;Tech Arsenal
 
 <div align="center">
 
-| Domain | Technologies |
+### 🌐 Frontend
+
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)
+[![Angular](https://skillicons.dev/icons?i=angular)](https://angular.io)
+[![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
+[![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev)
+
+### ⚙️ Backend
+
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
+[![Express.js](https://skillicons.dev/icons?i=express)](https://expressjs.com)
+
+![REST APIs](https://img.shields.io/badge/REST%20APIs-0d0d0d?style=for-the-badge&logo=fastapi&logoColor=a855f7)
+![MVC Architecture](https://img.shields.io/badge/MVC%20Architecture-0d0d0d?style=for-the-badge&logo=buffer&logoColor=67e8f9)
+![Zod Validation](https://img.shields.io/badge/Zod%20Validation-0d0d0d?style=for-the-badge&logo=zod&logoColor=a855f7)
+
+### 🗄️ Databases
+
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com)
+
+![Mongoose](https://img.shields.io/badge/Mongoose-0d0d0d?style=for-the-badge&logo=mongoose&logoColor=red)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=00ed64)
+
+### 🔐 Auth & Security
+
+![JWT](https://img.shields.io/badge/JWT-0d0d0d?style=for-the-badge&logo=jsonwebtokens&logoColor=a855f7)
+![bcrypt](https://img.shields.io/badge/bcrypt-0d0d0d?style=for-the-badge&logo=letsencrypt&logoColor=67e8f9)
+![RBAC](https://img.shields.io/badge/Role--Based%20Access%20Control-0d0d0d?style=for-the-badge&logo=shield&logoColor=a855f7)
+![Protected Routes](https://img.shields.io/badge/Protected%20Routes-0d0d0d?style=for-the-badge&logo=lock&logoColor=67e8f9)
+
+### 🤖 AI & File Processing
+
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini%20API-0d0d0d?style=for-the-badge&logo=google&logoColor=a855f7)
+![Structured JSON Prompting](https://img.shields.io/badge/Structured%20JSON%20Prompting-0d0d0d?style=for-the-badge&logo=json&logoColor=67e8f9)
+![Multer](https://img.shields.io/badge/Multer-0d0d0d?style=for-the-badge&logo=node.js&logoColor=a855f7)
+![pdf-parse](https://img.shields.io/badge/pdf--parse-0d0d0d?style=for-the-badge&logo=adobeacrobatreader&logoColor=67e8f9)
+
+### ☁️ Deployment
+
+[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com)
+[![Render](https://skillicons.dev/icons?i=render)](https://render.com)
+
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=00ed64)
+
+### 🛠️ Tools & Version Control
+
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://postman.com)
+
+### 📦 State Management
+
+![React Context API](https://img.shields.io/badge/React%20Context%20API-0d0d0d?style=for-the-badge&logo=react&logoColor=61dafb)
+![React Hooks](https://img.shields.io/badge/React%20Hooks-0d0d0d?style=for-the-badge&logo=react&logoColor=a855f7)
+![Axios](https://img.shields.io/badge/Axios-0d0d0d?style=for-the-badge&logo=axios&logoColor=5a29e4)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    AI ENGINEERING                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🤖 AI Engineering
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                    ⚡ GENERATIVE AI STACK ⚡                        ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  🧠 Google Gemini API     →  Production LLM integration             ║
+║  📐 Structured JSON Prompting →  Precise AI output formatting       ║
+║  📄 pdf-parse             →  Resume text extraction pipeline        ║
+║  📤 Multer                →  Secure document upload handling        ║
+║  🔍 JD-Resume Matching    →  AI-driven compatibility scoring        ║
+║  💡 Insight Generation    →  Strengths, gaps, suggestions via AI    ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+| Technology | Role | Applied In |
+|---|---|---|
+| **Google Gemini API** | Core LLM for resume analysis & scoring | CareerBoost AI |
+| **Structured JSON Prompting** | Ensures reliable, parseable AI responses | CareerBoost AI |
+| **pdf-parse** | Extracts resume text from PDF uploads | CareerBoost AI |
+| **Multer** | Handles secure PDF file uploads in Node.js | CareerBoost AI |
+| **JD–Resume Matching** | Evaluates compatibility across 500+ pairs | CareerBoost AI |
+| **Actionable Insight Engine** | Generates strengths, gaps, suggestions | CareerBoost AI |
+
+> 💡 **One of the few MCA freshers with hands-on Generative AI deployment experience in a live production application.**
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   FEATURED PROJECTS                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<!-- ─── Project 1 ─── -->
+<table>
+<tr>
+<td width="100%">
+
+### 🧠 CareerBoost AI — AI-Powered Resume Analyzer
+
+![Status](https://img.shields.io/badge/Status-Live%20in%20Production-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)
+![AI](https://img.shields.io/badge/Gemini%20API-Powered-a855f7?style=for-the-badge&logo=google&logoColor=white)
+
+> An intelligent full-stack platform that evaluates resume compatibility against job descriptions using **Google Gemini API** with structured JSON prompting — tested across **500+ resume-JD pairs**.
+
+**What it does:**
+- 🔍 AI-powered resume ↔ JD compatibility scoring
+- 📋 Generates strengths, skill gaps & improvement suggestions
+- 📤 Secure PDF upload pipeline via Multer + pdf-parse
+- 🔐 JWT authentication + bcrypt password hashing + protected routes
+- ☁️ Full production deployment on Vercel + Render + MongoDB Atlas
+
+**Tech Stack:**
+
+![React](https://img.shields.io/badge/React.js-0d0d0d?style=flat-square&logo=react&logoColor=61dafb)
+![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=flat-square&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express.js-0d0d0d?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=flat-square&logo=mongodb&logoColor=00ed64)
+![Gemini](https://img.shields.io/badge/Gemini%20API-0d0d0d?style=flat-square&logo=google&logoColor=a855f7)
+![JWT](https://img.shields.io/badge/JWT-0d0d0d?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d0d0d?style=flat-square&logo=tailwindcss&logoColor=38bdf8)
+![Multer](https://img.shields.io/badge/Multer-0d0d0d?style=flat-square&logo=node.js&logoColor=white)
+
+<p>
+  <a href="https://career-boost-ai-xi.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-a855f7?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/dharmiksoni15" target="_blank">
+    <img src="https://img.shields.io/badge/📂%20GitHub-1a0533?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ─── Project 2 ─── -->
+<table>
+<tr>
+<td width="100%">
+
+### ✅ TaskFlow — MERN Stack Task Manager
+
+![Status](https://img.shields.io/badge/Status-Live%20in%20Production-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)
+![Performance](https://img.shields.io/badge/UI%20Updates-< 200ms-67e8f9?style=for-the-badge)
+
+> A production-grade task management application with **real-time UI updates under 200ms**, supporting **100+ tasks** with full CRUD, live search, filtering, and analytics.
+
+**What it does:**
+- ⚡ Real-time UI updates under 200ms response time
+- 🔍 Live search + filter (All / Completed / Pending)
+- ✏️ Inline editing + toast notifications + analytics summary
+- 🏗️ MVC architecture with Express.js + Mongoose
+- ☁️ Production-deployed on Vercel + Render
+
+**Tech Stack:**
+
+![React](https://img.shields.io/badge/React.js-0d0d0d?style=flat-square&logo=react&logoColor=61dafb)
+![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=flat-square&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express.js-0d0d0d?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=flat-square&logo=mongodb&logoColor=00ed64)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d0d0d?style=flat-square&logo=tailwindcss&logoColor=38bdf8)
+![Axios](https://img.shields.io/badge/Axios-0d0d0d?style=flat-square&logo=axios&logoColor=5a29e4)
+
+<p>
+  <a href="https://task-manager-virid-kappa.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-a855f7?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/dharmiksoni15" target="_blank">
+    <img src="https://img.shields.io/badge/📂%20GitHub-1a0533?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ─── Project 3 ─── -->
+<table>
+<tr>
+<td width="100%">
+
+### 🖥️ MERN Stack Admin Dashboard
+
+![Status](https://img.shields.io/badge/Status-Live%20in%20Production-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)
+![Auth](https://img.shields.io/badge/JWT%20+%20RBAC%20Auth-secured-a855f7?style=for-the-badge)
+
+> A production-ready full-stack admin panel with **JWT authentication, role-based admin authorization**, full CRUD, and Zod schema validation — reducing accidental deletions to zero in testing.
+
+**What it does:**
+- 🔐 JWT authentication + role-based admin authorization
+- 📋 Full CRUD for user and contact management
+- ✅ Zod server-side schema validation
+- 🔄 React Context API for global state management
+- 🛡️ Confirmation prompts before destructive actions
+
+**Tech Stack:**
+
+![React](https://img.shields.io/badge/React.js%20(Vite)-0d0d0d?style=flat-square&logo=react&logoColor=61dafb)
+![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=flat-square&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express.js-0d0d0d?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=flat-square&logo=mongodb&logoColor=00ed64)
+![JWT](https://img.shields.io/badge/JWT-0d0d0d?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-0d0d0d?style=flat-square&logo=letsencrypt&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-0d0d0d?style=flat-square&logo=zod&logoColor=3068b7)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d0d0d?style=flat-square&logo=tailwindcss&logoColor=38bdf8)
+
+<p>
+  <a href="https://mern-stack-project-three-flame.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-a855f7?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/dharmiksoni15" target="_blank">
+    <img src="https://img.shields.io/badge/📂%20GitHub-1a0533?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  GITHUB ANALYTICS                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dharmiksoni15&show_icons=true&theme=transparent&title_color=a855f7&icon_color=67e8f9&text_color=c4b5fd&border_color=1a0533&bg_color=0d0d0d&hide_border=false&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="180" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmiksoni15&layout=compact&theme=transparent&title_color=a855f7&text_color=c4b5fd&border_color=1a0533&bg_color=0d0d0d&langs_count=8" height="180" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=dharmiksoni15&theme=dark&background=0d0d0d&border=1a0533&ring=a855f7&fire=67e8f9&currStreakLabel=a855f7&sideLabels=c4b5fd&currStreakNum=c4b5fd&sideNums=67e8f9&dates=6b7280" height="170" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmiksoni15&bg_color=0d0d0d&color=a855f7&line=7c3aed&point=67e8f9&area=true&area_color=1a0533&hide_border=false&border_color=1a0533&title_color=a855f7" width="95%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=dharmiksoni15&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6&title_color=a855f7" width="90%"/>
+
+<br/><br/>
+
+<a href="https://github.com/dharmiksoni15">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dharmiksoni15&theme=transparent" width="95%"/>
+</a>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                 EXPERIENCE TIMELINE                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 💼 Experience Timeline
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  2025 ──► PRESENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  🤖  AI Full Stack Developer (Self-Directed / Project-Based)
+      ├── Built & deployed CareerBoost AI — production AI product
+      ├── Integrated Google Gemini API for real resume analysis
+      ├── Tested across 500+ resume-JD pairs in production
+      └── One of few MCA freshers with live Gen AI deployment
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  2025
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  🏆  JG University Hackathon Winner
+      ├── Competed and won against university-level engineers
+      └── Demonstrated rapid full-stack product development skill
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  2022 – 2025
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  🎓  BCA — President Institute, Ahmedabad
+      ├── Built foundational CS knowledge and programming skills
+      └── Graduated with CGPA: 7.89
+```
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  EDUCATION TIMELINE                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🎓 Education
+
+<div align="center">
+
+| Year | Degree | Institution | Score |
+|------|--------|-------------|-------|
+| 2025 – 2027 | 🎓 **Master of Computer Applications (MCA)** | JG University, Ahmedabad | In Progress |
+| 2022 – 2025 | 🎓 **Bachelor of Computer Applications (BCA)** | President Institute, Ahmedabad | CGPA: **7.89** |
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    ACHIEVEMENTS                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🏆 Achievements
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🥇 JG University Hackathon Winner
+**2025**
+
+Competed and won the JG University annual hackathon, demonstrating rapid product development and full-stack engineering skills under real-time competitive conditions.
+
+![Hackathon](https://img.shields.io/badge/JG%20University-Hackathon%20Winner%202025-a855f7?style=for-the-badge&logo=trophy&logoColor=white)
+
+</td>
+<td align="center" width="50%">
+
+### 🤖 Gen AI Pioneer — MCA Fresher
+**2025**
+
+Deployed Google Gemini API in a live production application — tested across **500+ resume-JD pairs** — placing among the rare MCA freshers with real-world Generative AI shipping experience.
+
+![GenAI](https://img.shields.io/badge/Gemini%20API-Production%20Deployed-67e8f9?style=for-the-badge&logo=google&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 🚀 3 Full-Stack Apps in Production
+**2024 – 2025**
+
+Shipped three complete, production-grade MERN applications — each live on Vercel + Render with cloud MongoDB Atlas — demonstrating real end-to-end ownership.
+
+![MERN](https://img.shields.io/badge/3%20Apps-Production%20Live-a855f7?style=for-the-badge&logo=vercel&logoColor=white)
+
+</td>
+<td align="center" width="50%">
+
+### ⚡ Sub-200ms Real-Time UI
+**2025**
+
+Engineered TaskFlow to handle 100+ tasks with real-time UI updates under 200ms — resolving CORS issues and production configuration for a seamless user experience.
+
+![Performance](https://img.shields.io/badge/UI%20Response-Under%20200ms-67e8f9?style=for-the-badge&logo=lightning&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  CURRENT FOCUS                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🎯 Current Focus
+
+<div align="center">
+
+| | Focus Area |
 |---|---|
-| **Frontend** | ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB) ![JS](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E) ![TS](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6) ![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8) ![Angular](https://img.shields.io/badge/Angular-0d1117?style=flat-square&logo=angular&logoColor=DD0031) |
-| **Backend** | ![Node](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933) ![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=white) ![REST](https://img.shields.io/badge/REST_API-0d1117?style=flat-square&logo=postman&logoColor=FF6C37) ![MVC](https://img.shields.io/badge/MVC_Pattern-0d1117?style=flat-square&logo=databricks&logoColor=white) |
-| **Auth & Security** | ![JWT](https://img.shields.io/badge/JWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=white) ![bcrypt](https://img.shields.io/badge/bcrypt-0d1117?style=flat-square&logo=letsencrypt&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-0d1117?style=flat-square&logo=zod&logoColor=3E67B1) ![RBAC](https://img.shields.io/badge/RBAC-0d1117?style=flat-square&logo=shield&logoColor=white) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB_Atlas-0d1117?style=flat-square&logo=mongodb&logoColor=47A248) ![Mongoose](https://img.shields.io/badge/Mongoose-0d1117?style=flat-square&logo=mongoose&logoColor=800000) ![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D) |
-| **AI & Files** | ![Gemini](https://img.shields.io/badge/Gemini_API-0d1117?style=flat-square&logo=google&logoColor=4285F4) ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=linklinkchain&logoColor=1C3C3C) ![Multer](https://img.shields.io/badge/Multer-0d1117?style=flat-square&logo=npm&logoColor=CB3837) ![pdf-parse](https://img.shields.io/badge/pdf--parse-0d1117?style=flat-square&logo=adobeacrobatreader&logoColor=EC1C24) |
-| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazon&logoColor=FF9900) ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED) ![CI/CD](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=white) |
-| **Deploy & Tools** | ![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-0d1117?style=flat-square&logo=render&logoColor=46E3B7) ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032) ![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=FF6C37) |
+| 🔭 | **Building** production-grade AI-powered full-stack applications |
+| 🌱 | **Learning** advanced AI agent architectures and prompt engineering |
+| 🚀 | **Targeting** internship roles at top product companies |
+| 💡 | **Exploring** open source contributions in the MERN + AI ecosystem |
+| 🧠 | **Deepening** expertise in Generative AI integration patterns |
+| 🏗️ | **Architecting** scalable backends with MVC + REST + JWT |
 
 </div>
 
 ---
 
-## 📚 Currently Building & Learning
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  SNAKE CONTRIBUTION                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
-```
-Q2 2025                                               Q4 2025+
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-├─► Docker & Containerization                            │
-│                                                         │
-├─► Redis Caching & Session Management                   │
-│                                                         │
-├─► AWS (EC2, S3, RDS)                                   │
-│                                                         │
-├─► System Design & Scalability                          │
-│                                                         │
-├─► CI/CD Pipelines & DevOps                             │
-│                                                         │
-├─► RAG (Retrieval-Augmented Generation)                 │
-│                                                         │
-├─► LangChain & LangGraph for AI Agents                  │
-│                                                         │
-├─► Vector Databases (Pinecone, Weaviate)                │
-│                                                         │
-└─► Advanced LLD & HLD Problem Solving                   │
-                                                         │
-       Goal: Become top-tier full-stack SDE              │
-       Timeframe: 6 months of deliberate practice         │
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dharmiksoni15/dharmiksoni15/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dharmiksoni15/dharmiksoni15/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dharmiksoni15/dharmiksoni15/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
 ---
 
-## 🚀 Production Projects
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   CONNECT WITH ME                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-> All 3 are **live on the internet** — designed, built, and deployed independently.
-
-<br/>
-
-<details open>
-<summary><b>🧠 CareerBoost AI &nbsp;—&nbsp; AI Resume Analyzer</b> &nbsp;<code>Most Complex</code></summary>
-<br/>
-
-**Problem Solved:**
-Students and job seekers lack real-time feedback on resume quality. Manual review is slow; AI-powered analysis is instant.
-
-**Architecture:**
-```
-[ User uploads PDF ]
-        │
-        ▼
-[ Multer receives file ]──▶[ pdf-parse extracts text ]
-                                      │
-                                      ▼
-                         [ Gemini API + JSON Prompting ]
-                                      │
-                          ┌───────────┴───────────┐
-                          ▼                       ▼
-                   [ Match Score %]        [ Skill Gaps +
-                   [ Strengths   ]          Suggestions ]
-                          │
-                          ▼
-                 [ Saved to MongoDB ]
-                 [ Shown on Dashboard ]
-```
-
-**Key Technical Challenges:**
-- 🔹 Reliable PDF text extraction from varied formats
-- 🔹 Prompt engineering for consistent JSON responses from Gemini API
-- 🔹 Real-time analysis without blocking the UI
-- 🔹 Secure file handling and cleanup
-
-**Scale Considerations:**
-- Multer file size validation (max 5MB)
-- Queue system for bulk resume processing
-- Redis caching for repeated analysis results
-
-**Stack:** `React.js` `Node.js` `Express.js` `MongoDB Atlas` `Google Gemini API` `Multer` `pdf-parse` `JWT` `bcrypt` `Tailwind CSS`
-
-[![Repo](https://img.shields.io/badge/GitHub_Repo-c084fc?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dharmiksoni15/careerboost-ai)
-![Live](https://img.shields.io/badge/🌐_Deployed_on_Vercel-0d1117?style=for-the-badge)
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>✅ TaskFlow &nbsp;—&nbsp; MERN Task Manager</b></summary>
-<br/>
-
-**Problem Solved:**
-Teams need a lightweight, real-time task management tool with live updates and rich analytics.
-
-**Architecture:**
-```
-[ React UI ]
-    │  ↕ Axios
-[ Express API (MVC) ]──▶[ Mongoose ]──▶[ MongoDB Atlas ]
-    │
-    ├──▶ GET    /tasks      → fetch all
-    ├──▶ POST   /tasks      → create with validation
-    ├──▶ PUT    /tasks/:id  → inline edit + timestamps
-    └──▶ DELETE /tasks/:id  → soft delete
-         │
-         ▼
-  [ Live Search + Filter + Analytics + Priority Sort ]
-```
-
-**Key Technical Challenges:**
-- 🔹 Real-time filtering without refetching entire dataset
-- 🔹 Optimistic UI updates for smooth UX
-- 🔹 Debounced search to reduce API calls
-- 🔹 Complex MongoDB aggregation for analytics
-
-**Scale Considerations:**
-- Pagination for large task lists
-- Indexed MongoDB queries on status, priority, and date
-- Caching frequently accessed task summaries
-
-**Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Mongoose` `Tailwind CSS` `Axios`
-
-[![Repo](https://img.shields.io/badge/GitHub_Repo-c084fc?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dharmiksoni15/Task-Manager)
-![Live](https://img.shields.io/badge/🌐_Deployed_on_Vercel-0d1117?style=for-the-badge)
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>🛡️ MERN Admin Dashboard &nbsp;—&nbsp; Role-Based Auth System</b></summary>
-<br/>
-
-**Problem Solved:**
-Production applications require robust authentication, authorization, and admin controls. This project demonstrates enterprise-grade security patterns.
-
-**Architecture:**
-```
-[ Register / Login ]
-        │
-    JWT issued + stored
-        │
-   ┌────┴─────┐
-   ▼          ▼
-[Admin]     [User]
-   │           │
-[Full CRUD] [Read Only]
-[User Mgmt] [Own Profile]
-[Contact  ] [View Only]
-[Dashboard] [Personal]
-   │
-[ Zod validates all inputs ]
-[ bcrypt hashes all passwords ]
-[ JWT middleware on protected routes ]
-[ MongoDB Atlas stores everything ]
-```
-
-**Key Technical Challenges:**
-- 🔹 Secure password hashing with bcrypt salt rounds
-- 🔹 JWT token refresh mechanism for session management
-- 🔹 Role-based middleware to prevent unauthorized access
-- 🔹 Zod schema validation on frontend and backend
-- 🔹 Protection against XSS and CSRF attacks
-
-**Scale Considerations:**
-- Redis for JWT blacklisting on logout
-- Rate limiting on login endpoints to prevent brute force
-- Token expiration strategy (short access, long refresh)
-
-**Stack:** `React.js (Vite)` `Context API` `Node.js` `JWT` `bcrypt` `Zod` `Tailwind CSS` `MongoDB Atlas`
-
-[![Repo](https://img.shields.io/badge/GitHub_Repo-c084fc?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dharmiksoni15/Mern_stack_Project)
-![Live](https://img.shields.io/badge/🌐_Deployed_on_Vercel-0d1117?style=for-the-badge)
-
-</details>
-
----
-
-## 🏅 GitHub Achievements
+## 🌐 Connect With Me
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dharmiksoni15&theme=tokyonight&no-frame=true&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="mailto:dharmikwork15@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-dharmikwork15%40gmail.com-0d0d0d?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d0d0d&color=1a0533" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/dharmiksoni15" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-dharmiksoni15-0d0d0d?style=for-the-badge&logo=github&logoColor=a855f7&labelColor=0d0d0d&color=1a0533" />
+</a>
+
+<br/><br/>
+
+<a href="https://dharmiksoni-portfolio.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-dharmiksoni--portfolio.netlify.app-0d0d0d?style=for-the-badge&logo=netlify&logoColor=67e8f9&labelColor=0d0d0d&color=1a0533" />
+</a>
+
+<br/><br/>
+
+<a href="tel:+917359587675">
+  <img src="https://img.shields.io/badge/Phone-+91%207359587675-0d0d0d?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=0d0d0d&color=1a0533" />
+</a>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  VISITOR COUNTER                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmiksoni15&layout=compact&hide_border=true&title_color=c084fc&text_color=e2e8f0&bg_color=0d1117&langs_count=7" height="155"/>
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=dharmiksoni15&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=7C3AED&currStreakLabel=C084FC&sideLabels=e2e8f0&dates=64748b)](https://git.io/streak-stats)
-
-<br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dharmiksoni15&bg_color=0d1117&color=c084fc&line=7c3aed&point=ffffff&area=true&area_color=2d1b69&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Visitor Count](https://komarev.com/ghpvc/?username=dharmiksoni15&label=Profile%20Visitors&color=a855f7&style=for-the-badge&labelColor=0d0d0d)
 
 </div>
 
 ---
 
-## 💻 LeetCode Profile
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      QUOTE                                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Problem_Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/dharmiksoni15/)
+<br/>
 
-*Strengthening problem-solving skills across arrays, strings, trees, dynamic programming, and system design concepts.*
+> **"The best way to predict the future is to build it —**
+> **and in 2025, building the future means building with AI."**
+
+<br/>
+
+*— Dharmik Soni, AI Full Stack Engineer*
 
 </div>
 
 ---
 
-## ❓ Why Hire Me?
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  ANIMATED FOOTER                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                                                                         │
-│  🔧 TECHNICAL EXCELLENCE                                                │
-│  ├─ Built and deployed 3 production applications independently          │
-│  ├─ Integrated AI (Gemini API) into real-world products                 │
-│  ├─ Full-stack expertise: MongoDB → Express → React → Vercel/Render     │
-│  └─ Proven ability to handle complete development lifecycle             │
-│                                                                         │
-│  🔐 SECURITY & BEST PRACTICES                                           │
-│  ├─ Implemented JWT-based authentication systems                        │
-│  ├─ Role-based access control (RBAC) with proper authorization          │
-│  ├─ Input validation with Zod and bcrypt password hashing               │
-│  └─ Production-grade security patterns from day one                      │
-│                                                                         │
-│  🏆 PROVEN EXECUTION                                                    │
-│  ├─ Winner of JG University Hackathon 2025 (50+ competing teams)         │
-│  ├─ Shipped working features under time constraints                     │
-│  ├─ Demonstrated full-stack excellence in competitive environment       │
-│  └─ Validated technical depth and ability to execute                    │
-│                                                                         │
-│  🚀 GROWTH MINDSET                                                      │
-│  ├─ Currently learning Docker, Redis, AWS, and system design            │
-│  ├─ Exploring advanced AI concepts (RAG, LangChain, LangGraph)           │
-│  ├─ Committed to becoming a top-tier full-stack engineer                │
-│  └─ Actively building in public and documenting learnings               │
-│                                                                         │
-│  📊 STRONG FUNDAMENTALS                                                 │
-│  ├─ Database design and optimization (MongoDB, indexing)                │
-│  ├─ API design and REST principles                                      │
-│  ├─ Frontend architecture and component design                          │
-│  ├─ Deployment and DevOps basics                                        │
-│  └─ Problem-solving and debugging skills                               │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
-
-What you get: Not just code, but a builder who thinks about                
-             users, security, scalability, and continuous improvement.
-```
-
-</div>
-
----
-
-## 🐍 Watch the Snake Eat My Contributions
-
-> **Setup required:** Add the GitHub Action below to generate this animation automatically.
-
-<div align="center">
-
-![snake animation](https://github.com/dharmiksoni15/dharmiksoni15/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<details>
-<summary>📋 How to set up the Snake Animation</summary>
-<br/>
-
-Create `.github/workflows/snake.yml` in your profile repo:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: dharmiksoni15
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-*MCA student @ JG University. Full-Stack Builder. Production Deployer. Hackathon Winner.*
-
-*Actively seeking Software Development Internship opportunities where I can contribute to production-grade engineering projects, solve complex problems, and grow alongside experienced engineers.*
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharmik-soni-26a557280)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharmikwork15@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dharmiksoni15)
-
-<br/>
-
-![Visitors](https://komarev.com/ghpvc/?username=dharmiksoni15&color=7c3aed&style=flat-square&label=profile+views)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:1a0533,60:2d1b69,100:0a0a0f&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:1a0533,100:0d0d0d&height=120&section=footer&text=Let's%20Build%20the%20Future%20Together&fontSize=22&fontColor=a855f7&fontAlignY=65&desc=Open%20to%20Internships%20%E2%80%A2%20AI%20Projects%20%E2%80%A2%20Collaborations&descSize=14&descColor=67e8f9&descAlignY=85&animation=fadeIn" width="100%"/>
