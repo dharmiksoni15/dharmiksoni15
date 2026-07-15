@@ -1,7 +1,10 @@
 <div align="center">
 
-# Dharmik Soni
-### Full Stack Developer · MERN Stack · AI Integration
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0F172A,100:1E293B&height=200&section=header&text=Dharmik%20Soni&fontSize=56&fontColor=E2E8F0&fontAlignY=42&desc=Full%20Stack%20Developer%20%C2%B7%20MERN%20Stack%20%C2%B7%20AI%20Integration&descSize=17&descAlignY=62&descColor=94A3B8&animation=fadeIn" width="100%"/>
+
+</div>
+
+<div align="center">
 
 MCA student (2025–2027) building production-grade full stack applications with the MERN stack and AI integrations.
 
